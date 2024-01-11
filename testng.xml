@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="SatishRaja.Project_ContinousIntegration.AppTest"/>
+      <class name="SatishRaja.Project_ContinousIntegration.DemoContinousIntegrationTest"/>
+      <class name="SatishRaja.Project_ContinousIntegration.NewTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class AppTest 
+public class DemoContinousIntegrationTest 
 {
 	@Test
 	public  void Demo1() throws InterruptedException {
